@@ -47,7 +47,7 @@ public class Task_1 {
 			System.out.println("Your total is: RM" + total);
 			
 			//Prompts user to go again or end program
-			System.out.println("To order more eneter 1 || To exit enter 2");
+			System.out.println("To order more enter 1 || To exit enter 2");
 			ans = keyboard.next();
 			i = Integer.parseInt(ans);
 			
