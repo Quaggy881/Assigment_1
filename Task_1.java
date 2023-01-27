@@ -31,7 +31,7 @@ public class Task_1 {
 				
 				System.out.println("Enter the number of Salads you would like to purchase: ");
 				ans = keyboard.next();
-				salad = Integer.parseInt(ans);
+				salad = Integer.parseInt(ans); 
 				
 				System.out.println("Enter the number of Desserts you would like to purchase: ");
 				ans = keyboard.next();
