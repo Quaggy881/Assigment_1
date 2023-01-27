@@ -57,7 +57,7 @@ public class Task_3 {
 		
 		default : System.out.println("Invalid day");
 				
-			}
+			} 
 		
 		//To retry in case of invalid input
 		System.out.println("To go again enter any integer || to exit enter 1");
