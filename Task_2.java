@@ -77,7 +77,7 @@ public class Task_2 {
 			else {
 				JOptionPane.showMessageDialog(null, "Contestants " + name1 + ", " + name2 + " & " + name3 + " all have the same time of " + time1 + " minutes", "Rankings", JOptionPane.INFORMATION_MESSAGE, icon1);
 			}		
-		}
+		} 
 		
 		
 		
